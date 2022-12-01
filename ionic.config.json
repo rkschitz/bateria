@@ -1,0 +1,7 @@
+{
+  "name": "battery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
